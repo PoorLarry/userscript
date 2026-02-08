@@ -1,4 +1,4 @@
-ĐƯỢC VIẾT HOÀN TOÀN BĂNG A.I NÊN CÓ LỖI GÌ ĐỪNG HỎI TÔI :))
+ĐƯỢC VIẾT HOÀN TOÀN BẰNG A.I NÊN CÓ LỖI GÌ ĐỪNG HỎI TÔI :))
 # Userscript Collection
 
 Một bộ sưu tập các userscript hữu ích được viết bằng JavaScript để tăng cường trải nghiệm trên các trang web khác nhau.
