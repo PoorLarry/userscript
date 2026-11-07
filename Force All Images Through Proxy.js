@@ -5,6 +5,7 @@
 // @description  Ép toàn bộ ảnh (kể cả avatar, data.voz.vn và lazyload) qua Proxy
 // @author       You
 // @match        https://voz.vn/t/*
+// @match        https://voz.vn/f/*
 // @grant        none
 // @run-at       document-start
 // @noframes
